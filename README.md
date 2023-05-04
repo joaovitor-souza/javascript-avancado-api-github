@@ -13,4 +13,4 @@ Um projeto com HTML, CSS e Javascript proposto pelo curso DevQuest.
 O desafio proposto pelo curso Devquest, consiste em usar a API do Github para buscar seu usuário, filtrando seus dados na tela.
 
 ## Desenvolvimento Contínuo 
-Desde então continuarei desenvolvendo projetos com HTML, CSS e logo trarei projetos mais complexos.
+Desde então continuarei desenvolvendo projetos com HTML, CSS, Javascript e logo trarei projetos mais complexos.
